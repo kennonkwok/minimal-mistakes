@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Kennon Kwok
 locale:           en_US
 url:              
 
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Kennon Kwok 
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email: 
+  email: kennon.kwok@gmail.com
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: kennonkwok
+  facebook: kennonkwok
   google:
-    plus: #username
+    plus: KennonKwok
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: kennonkwok
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: kennonkwok
   instagram: #username
   lastfm: #username
   tumblr: #username
