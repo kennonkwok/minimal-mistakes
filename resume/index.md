@@ -16,7 +16,14 @@ image:
 
 ## Employment Experience
 **Chef Software, Inc.** - Seattle, WA  
-**Solutions Engineer** (San Francisco Bay Area) - January 2014 to Present  
+**Customer Architect** (Remote) - May 2016 to Present
+- Partner with Customer Success Managers and customer leadership to design solutions and define automation roadmaps for enterprise customers.  
+- Collaborate with Chef teams including product, marketing, and professional services to best guide customers and act as a champion for customer needs.
+- Leverage deep DevOps technical knowledge to accelerate implementations and deployments.
+- Develop technical materials for Customer Success practice at Chef.
+
+**Chef Software, Inc.** - Seattle, WA  
+**Solutions Engineer** (San Francisco Bay Area and Remote) - January 2014 to April 2016  
 
 - Provide consulting services in the use of Chef's software, cookbook development, and custom implementation code.  Train individuals and groups on the usage of Chef and related software in enterprise environments.
 - Advise customers on DevOps best practices, open source tooling, enterprise IT patterns.
